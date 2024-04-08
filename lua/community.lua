@@ -7,6 +7,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.split-and-window.mini-map" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/split-and-window/mini-map/init.lua
   { import = "astrocommunity.recipes.vscode" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/recipes/vscode/init.lua
   { import = "astrocommunity.recipes.neovide" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/recipes/neovide/init.lua
   -- { import = "astrocommunity.pack.ansible" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/ansible/init.lua
@@ -26,5 +27,6 @@ return {
   { import = "astrocommunity.pack.typescript" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/typescript/init.lua
   { import = "astrocommunity.pack.vue" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/vue/init.lua
   { import = "astrocommunity.pack.yaml" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/yaml/init.lua
+  -- { import = "astrocommunity.test.neotest" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/test/neotest/init.lua
   -- import/override with your plugins folder
 }
