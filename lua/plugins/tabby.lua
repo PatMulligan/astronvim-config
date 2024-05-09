@@ -1,3 +1,5 @@
+if true then return {} end
+
 return {
   "TabbyML/vim-tabby",
   -- event = "VeryLazy",
