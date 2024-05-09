@@ -30,6 +30,7 @@ return {
   -- { import = "astrocommunity.pack.vue" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/vue/init.lua
   -- { import = "astrocommunity.pack.yaml" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/yaml/init.lua
   -- { import = "astrocommunity.test.neotest" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/test/neotest/init.lua
-  { import = "astrocommunity.completion.copilot-lua" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/completion/copilot/init.lua
+  -- { import = "astrocommunity.completion.copilot-lua" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/completion/copilot-lua/init.lua
+  -- { import = "astrocommunity.completion.copilot-lua-cmp" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/completion/copilot-lua-cmp/init.lua
   -- import/override with your plugins folder
 }
