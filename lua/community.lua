@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.editing-support.undotree" }, -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/editing-support/undotree
   { import = "astrocommunity.split-and-window.mini-map" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/split-and-window/mini-map/init.lua
   { import = "astrocommunity.recipes.vscode" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/recipes/vscode/init.lua
   { import = "astrocommunity.recipes.neovide" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/recipes/neovide/init.lua
