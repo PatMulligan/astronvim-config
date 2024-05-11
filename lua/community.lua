@@ -23,7 +23,7 @@ return {
   -- { import = "astrocommunity.pack.just" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/just/init.lua
   -- { import = "astrocommunity.pack.prisma" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/prisma/init.lua
   { import = "astrocommunity.pack.python" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/python/init.lua
-  -- { import = "astrocommunity.pack.rust" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/rust/init.lua
+  { import = "astrocommunity.pack.rust" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/rust/init.lua
   -- { import = "astrocommunity.pack.tailwindcss" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/tailwindcss/init.lua
   -- { import = "astrocommunity.pack.toml" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/toml/init.lua
   { import = "astrocommunity.pack.typescript" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/pack/typescript/init.lua
