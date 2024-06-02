@@ -35,5 +35,6 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" }, -- https://github.com/AstroNvim/astrocommunity/blob/main/lua/astrocommunity/completion/copilot-lua-cmp/init.lua
   { import = "astrocommunity.note-taking.venn-nvim" }, -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/note-taking/venn-nvim
   -- { import = "astrocommunity.note-taking.neorg" }, -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/note-taking/neorg 
+  { import = "astrocommunity.motion.nvim-surround" }, -- https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/motion/nvim-surround
   -- import/override with your plugins folder
 }
